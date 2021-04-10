@@ -5,7 +5,7 @@ html {
   }
   
   body {
-   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-family:'Special Elite', cursive;
     font-size: 1.6rem;
     line-height: 1.5;
     text-align: center;
@@ -93,9 +93,9 @@ html {
     }
   
   
-  body{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: #333;
+  /*body{
+    font-family:'Special Elite', cursive;;
+    color: #333;*/
   }
   
   header h1{
